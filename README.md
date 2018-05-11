@@ -1,4 +1,4 @@
 # Android-Studio-Example
  
-Android Studio Learned Projects
-Android Studio öğrenirken yaptığım projeler
+*Android Studio Learned Projects
+*Android Studio öğrenirken yaptığım Projeler
