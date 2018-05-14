@@ -1,6 +1,6 @@
 # Android-Studio-Example
  
-Android Studio Learned Projects
+Android Studio Learning Projects
 
 
 Android Studio öğrenirken yaptığım Projeler
