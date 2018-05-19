@@ -47,4 +47,5 @@
         app:layout_constraintStart_toStartOf="@+id/imageView2"
         app:layout_constraintTop_toTopOf="@+id/imageView3"
         app:srcCompat="@drawable/stan" />
+
 </android.support.constraint.ConstraintLayout>
